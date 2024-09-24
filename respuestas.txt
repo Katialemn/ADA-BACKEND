@@ -1,0 +1,40 @@
+1. ¿Alguna vez usastes algún sistema de control de versionado?
+¿Para qué?. Tuviste experiencia previa con Git?
+No, lo he usado solamente para subir un repositorio.
+
+2. ¿Qué tan experto te consideras del 1 al 10?
+Me considero un uno (1).
+
+3.¿Crees que el uso de GIT mejore tu experiencia trabajando en programación 
+a comparación de como venías trabajando hasta ahora (con figma)?
+Creo que si aumentará  mi versatilidad y experiencia en programación para
+trabajar en equipo y visualizar los cambios, desarrollar y mejorar mi 
+capacidad de procesamiento lógico.
+
+4. GIT es...
+º un software.
+º una forma ágil de trabajar.
+º un conjunto de reglas para trabajar en equipo.
+
+GIT es un softwar de control de versiones, pero esta diselado para permitirnos
+trabajar de forma ágil y en equipo siguiendo reglas.
+
+5. Un commit tiene...
+º fecha y mensaje
+º fecha, author y computadora
+º fecha, author y mensaje
+
+Un commit tiene fecha, author y mensaje.
+
+6. Selecciona el orden correcto para persistir  los cambios de productos.js
+º git add productos.js --> se modifica el archivo --> git 
+commit-m "Carrito agregado"
+º git add productos.js --> se modifica el archivo --> git add 
+productos.js --> git commit -m "Carrito agregado"
+
+La segunada luego que se modifica nuevamentet hay que agregar el archivo y 
+despues commit.
+
+7. ¿Git permite mantener un historial de como fue cambiado el proyecto?
+Sí, es su principal funcionalidad.
+
