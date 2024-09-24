@@ -16,7 +16,7 @@ capacidad de procesamiento lógico.
 º una forma ágil de trabajar.
 º un conjunto de reglas para trabajar en equipo.
 
-GIT es un softwar de control de versiones, pero esta diselado para permitirnos
+GIT es un softwar de control de versiones, pero esta diseñado para permitirnos
 trabajar de forma ágil y en equipo siguiendo reglas.
 
 5. Un commit tiene...
@@ -32,7 +32,7 @@ commit-m "Carrito agregado"
 º git add productos.js --> se modifica el archivo --> git add 
 productos.js --> git commit -m "Carrito agregado"
 
-La segunada luego que se modifica nuevamentet hay que agregar el archivo y 
+La segunada luego que se modifica nuevamente hay que agregar el archivo y 
 despues commit.
 
 7. ¿Git permite mantener un historial de como fue cambiado el proyecto?
